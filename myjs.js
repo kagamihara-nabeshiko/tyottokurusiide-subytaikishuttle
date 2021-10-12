@@ -1,1 +1,1 @@
-alert('Hello,sunshine!')
+alart('Hello,sunshine!')
