@@ -1,1 +1,3 @@
-function sayhello
+関数sayhello（）{
+    alert（ 'こんにちは、関数！'）;
+}
